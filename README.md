@@ -9,8 +9,7 @@ This guide will help you set up the Laravel project on your local system after c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/soft84ya/laravel12.git
 composer install
 copy .env.example .env     # For Windows
 # OR
